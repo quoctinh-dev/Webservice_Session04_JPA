@@ -10,7 +10,7 @@ description = 'Webservice_Session04_JPA'
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(17)
+        languageVersion = JavaLanguageVersion.of(21)
     }
 }
 
